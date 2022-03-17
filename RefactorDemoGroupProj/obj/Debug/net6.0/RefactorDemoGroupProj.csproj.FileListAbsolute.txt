@@ -1,0 +1,15 @@
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\bin\Debug\net6.0\RefactorDemoGroupProj.exe
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\bin\Debug\net6.0\RefactorDemoGroupProj.deps.json
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\bin\Debug\net6.0\RefactorDemoGroupProj.runtimeconfig.json
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\bin\Debug\net6.0\RefactorDemoGroupProj.dll
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\bin\Debug\net6.0\RefactorDemoGroupProj.pdb
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.csproj.AssemblyReference.cache
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.AssemblyInfoInputs.cache
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.AssemblyInfo.cs
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.csproj.CoreCompileInputs.cache
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.dll
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\refint\RefactorDemoGroupProj.dll
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.pdb
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\RefactorDemoGroupProj.genruntimeconfig.cache
+Q:\Dev10\Modules\Module2\RefactorDemoGroupProj\RefactorDemoGroupProj\obj\Debug\net6.0\ref\RefactorDemoGroupProj.dll
